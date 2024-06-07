@@ -17,7 +17,7 @@ This repository contains the implementation of the following paper: Skip-GANomal
 ## 2. Installation
 1. First clone the repository
    ```
-   git clone https://github.com/crinex/skip-ganomalyPP.git
+   git clone https://github.com/crinex/SkipGANomalyPP.git
    ```
 2. Create the virtual environment via conda
     ```

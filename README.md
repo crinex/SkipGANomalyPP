@@ -110,4 +110,3 @@ If you use this repository or would like to refer the paper, please use the foll
     publisher = "AAAI"
 }
 ```
-# Masked-SKGAN
